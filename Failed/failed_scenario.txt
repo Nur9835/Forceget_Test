@@ -1,0 +1,13 @@
+file:src/test/resources/features/TC_29_Search_Ttile_RegisterPanel.feature:11
+file:src/test/resources/features/TC_24_Validate_Non-Numeric_Name_in_Registration.feature:20
+file:src/test/resources/features/TC_20_Recorded_Email_Validation_Register.feature:23
+file:src/test/resources/features/TC_28_Password_and_Confirm_Password_Eye_Icon_Toggle_Functionality.feature:15
+file:src/test/resources/features/TC_23_Ensure_Company_Field_Has_Minimum_Length.feature:20
+file:src/test/resources/features/TC_10_11_12_13_14_15_16_17_18_Require_%20Fields_Empty_In_Register.feature:20:21:22:23:24:25:26:27:28
+file:src/test/resources/features/TC_1_Successful_Register.feature:20
+file:src/test/resources/features/TC_22_Ensure_LastName_Field_Has_Minimum_Length.feature:20
+file:src/test/resources/features/TC_27_Confirm_Password_must_match_Password.feature:22
+file:src/test/resources/features/TC_25_Validate_Non-Numeric_LastName_in_Registration.feature:20
+file:src/test/resources/features/TC_26_Validate_Non-Numeric_Company_in_Registration.feature:20
+file:src/test/resources/features/TC_19_Unaccepted_KVKK_register.feature:19
+file:src/test/resources/features/TC_21_Ensure_Name_Field_Has_Minimum_Length.feature:20
